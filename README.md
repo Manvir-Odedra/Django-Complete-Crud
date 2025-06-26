@@ -14,3 +14,4 @@ Used Python 3
 Django Framework
 SQLite (default Django DB)
 HTML, CSS (Bootstrap if applicable)
+![App Screenshot](screenshot.png)
