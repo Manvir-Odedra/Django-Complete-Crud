@@ -15,4 +15,4 @@ Django Framework
 SQLite (default Django DB)
 HTML, CSS (Bootstrap if applicable)
 ![App Screenshot](assets/Screenshot-home.png)
-(assets/Screenshot-userdata.png)
+![User List](assets/Screenshot-userdata.png)
